@@ -1,0 +1,3 @@
+[submodule "secret_project"]
+	path = secret_project
+	url = git@github.com:saitokenta/secret_project.git
